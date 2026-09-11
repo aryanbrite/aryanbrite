@@ -63,7 +63,8 @@ I'm currently researching **Quantum Key Distribution** ([BB84](https://arxiv.org
 
 | Event | Location | Date | As |
 |---|---|---|---|
-| [Boba Bash Delhi]| TBD | 26 Sept | Lead Organiser |
+| [Boba Bash Delhi]| Victoria Universitey | 23 October | Lead Organiser |
+| [Haven Delhi]| TBD | 14 November | Lead Organiser |
 | [Hacktoberfest] | TBD | IDK | IDK |
 
 
