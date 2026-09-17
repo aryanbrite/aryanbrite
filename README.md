@@ -63,6 +63,7 @@ I'm currently researching **Quantum Key Distribution** ([BB84](https://arxiv.org
 
 | Event | Location | Date | As |
 |---|---|---|---|
+| [Build with AI with Google and Tata 1mg]| Tata 1mg | 19 September | attendee |
 | [Boba Bash Delhi]| Victoria Universitey | 23 October | Lead Organiser |
 | [Haven Delhi]| TBD | 14 November | Lead Organiser |
 | [Hacktoberfest] | TBD | IDK | IDK |
